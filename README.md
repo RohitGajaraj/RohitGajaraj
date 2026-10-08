@@ -29,11 +29,11 @@ I am a Senior AI Product Manager at Intellect Design Arena, where I lead agentic
 - Wispr Flow and Whisper for voice to text. I talk more than I type
 - Mobbin for design references, and Claude for working through design
 
-**Things I have built**
+**Things I am building right now**
 
-[**Supaprod**](https://github.com/RohitGajaraj/Supaprod) - An agentic product management platform I built as a side project. It decides what to build, builds it, ships it, checks the outcome, and learns from it. It has three parts: a Director that sets direction, an Operating System that runs Discover, Decide, Plan, Design, Build, Ship, and Learn, and a Brain that carries the learning into the next decision. I built it by directing coding agents: 2,246 files, 86 routes, 591 migrations, and 961 test files. It is live at [supaprod.ai](https://supaprod.ai).
+[**Supaprod**](https://github.com/RohitGajaraj/Supaprod) - An agentic product management platform I am building as a side project. It decides what to build, builds it, ships it, checks the outcome, and learns from it. It has three parts: a Director that sets direction, an Operating System that runs Discover, Decide, Plan, Design, Build, Ship, and Learn, and a Brain that carries the learning into the next decision. I am building it by directing coding agents: 2,246 files, 86 routes, 591 migrations, and 961 test files so far. It is live at [supaprod.ai](https://supaprod.ai).
 
-[**Project Infinity**](https://github.com/RohitGajaraj/project-infinity) - The neutral trust layer for AI agents: verified identity, permissions, and signed credentials that any business can check in one call.
+[**Project Infinity**](https://github.com/RohitGajaraj/project-infinity) - The neutral trust layer for AI agents: verified identity, permissions, and signed credentials that any business can check in one call. This is the second project I am actively building.
 
 One honest lesson from building Supaprod: in August 2026 I found nine shipped features doing nothing in production, even though every test was green. I found them only by querying the live database. Tests passing is not the same as value landing.
 
