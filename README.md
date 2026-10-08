@@ -69,8 +69,8 @@ One honest lesson from building Supaprod: in August 2026 I found nine shipped fe
 
 <h2> The road here </h2>
 
-- **Intellect, 2023 to now.** Senior AI Product Manager for agentic AI products used by large enterprises. I lead the agents, the platform underneath them, and the go to market for my product line.
-- **Founder, Bengaluru, 2022 to 2023.** I built a consumer beverage brand, incubated at NSRCEL, IIM Bangalore, and recognised by Startup India.
+- **Intellect.** Senior AI Product Manager, building agentic AI products used by large enterprises. I lead the agents, the platform underneath them, and the go to market for my product line.
+- **Founder, Bengaluru.** Took a small stint to build something of my own: a consumer beverage brand, incubated at NSRCEL, IIM Bangalore, and recognised by Startup India.
 - **Infineon Technologies, Munich, Germany.** Product Manager for consumer audio silicon, the chips inside flagship smartphones. Semiconductors taught me how unforgiving real hardware timelines are.
 - **ISRO, Bengaluru.** I started my career at India’s space agency, as a communications engineer and associate product manager working on satellite communication systems.
 - MBA from TUM School of Management, Munich, Germany. I lived and worked in Germany from 2019 to 2022. I am exploring senior AI product roles at frontier labs and AI first companies, and I am open to relocating for the right role.
