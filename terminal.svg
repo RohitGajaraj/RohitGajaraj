@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="520" viewBox="0 0 1240 520" font-family="'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace">
+<rect x="1" y="1" width="1238" height="518" rx="12" fill="#0b0e14" stroke="#232a35" stroke-width="2"/>
+<path d="M1 13 A12 12 0 0 1 13 1 L1227 1 A12 12 0 0 1 1239 13 L1239 46 L1 46 Z" fill="#11151d"/>
+<circle cx="30" cy="23" r="6" fill="#3a3f4a"/>
+<circle cx="54" cy="23" r="6" fill="#3a3f4a"/>
+<circle cx="78" cy="23" r="6" fill="#3a3f4a"/>
+<text x="620" y="29" font-size="14" fill="#6e7681" text-anchor="middle">rohit@gajaraj: ~/profile — zsh</text>
+<rect x="64" y="92" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="87" y="92" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="110" y="92" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="133" y="92" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="115" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="156" y="115" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="138" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="156" y="138" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="161" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="87" y="161" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="110" y="161" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="133" y="161" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="184" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="110" y="184" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="207" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="133" y="207" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="64" y="230" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="156" y="230" width="20" height="20" rx="2" fill="#e6edf3"/>
+<rect x="228" y="92" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="251" y="92" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="274" y="92" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="205" y="115" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="297" y="115" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="205" y="138" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="205" y="161" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="251" y="161" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="274" y="161" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="297" y="161" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="205" y="184" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="297" y="184" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="205" y="207" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="297" y="207" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="228" y="230" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="251" y="230" width="20" height="20" rx="2" fill="#c6a86e"/>
+<rect x="274" y="230" width="20" height="20" rx="2" fill="#c6a86e"/>
+<text x="64" y="287" font-size="16" fill="#6e7681">space · silicon · agentic ai</text>
+<text x="64" y="317" font-size="16" fill="#6e7681">est. bengaluru — munich — bengaluru</text>
+<text x="470" y="96" font-size="20"><tspan fill="#e6edf3" font-weight="bold">rohit@gajaraj</tspan><tspan fill="#6e7681">  ────────────────────────────</tspan></text>
+<text x="470" y="137" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Role</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Senior AI Product Manager</tspan></text>
+<text x="470" y="166" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Uptime</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">9+ years in product &amp; engineering</tspan></text>
+<text x="470" y="195" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Host</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Intellect</tspan></text>
+<text x="470" y="224" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Kernel</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Agentic AI products, GTM included</tspan></text>
+<text x="470" y="253" font-size="19"><tspan fill="#e8a33d" font-weight="bold">IDE</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Claude Code, Codex, Cursor</tspan></text>
+<text x="470" y="282" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Stack</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">TypeScript, React, Supabase, Cloudflare</tspan></text>
+<text x="470" y="311" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Focus</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">AI Agents · LLM Evaluation · RAG</tspan></text>
+<text x="470" y="340" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Hobbies.Software</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Building with agents, voice-first everything</tspan></text>
+<text x="470" y="369" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Hobbies.Real</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#c9d1d9">Travel, good food</tspan></text>
+<text x="470" y="389" font-size="19"><tspan fill="#e6edf3" font-weight="bold">— Contact</tspan><tspan fill="#6e7681">  ─────────────────────────────</tspan></text>
+<text x="470" y="418" font-size="19"><tspan fill="#e8a33d" font-weight="bold">LinkedIn</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#79b8ff">linkedin.com/in/rohit-gajaraj</tspan></text>
+<text x="470" y="447" font-size="19"><tspan fill="#e8a33d" font-weight="bold">X</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#79b8ff">@rohit_gajaraj</tspan></text>
+<text x="470" y="476" font-size="19"><tspan fill="#e8a33d" font-weight="bold">Web</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#79b8ff">supaprod.ai</tspan></text>
+</svg>
