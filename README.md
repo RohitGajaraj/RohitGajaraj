@@ -8,7 +8,7 @@
 
 </div>
 
-I build AI products, and I mean that literally. Most days you will find me in a terminal, directing coding agents and testing a flow myself, and then on a call with a customer, finding out why it still is not good enough.
+I build AI products, and I mean that literally. Most days you will find me in a terminal, directing coding agents and testing a flow myself, and then on a call with a customer, finding out why it still is not good enough. I am, honestly, mad about building products.
 
 I am a Senior AI Product Manager, but the title only tells half of it. Think of me as an AI builder who also runs the business: I set the direction, I build with coding agents myself, and I execute the go to market, pricing, and distribution. Strategy, build, and execution in one person, not three handoffs. I can build the thing, and I also care about what it costs, how it is priced, and how it actually reaches customers. At Intellect I lead agentic AI products and the platform underneath them, and I own go to market for my products, pricing and distribution included. Not a handoff. The whole thing.
 
