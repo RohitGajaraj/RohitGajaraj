@@ -1,4 +1,4 @@
-![rohit@gajaraj](https://raw.githubusercontent.com/RohitGajaraj/RohitGajaraj/228224d/terminal.svg)
+![rohit@gajaraj](https://raw.githubusercontent.com/RohitGajaraj/RohitGajaraj/bf6d285/terminal.svg)
 
 <h1> Hi, I’m Rohit 👋 </h1>
 
