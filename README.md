@@ -1,80 +1,70 @@
-![rohit@gajaraj](https://raw.githubusercontent.com/RohitGajaraj/RohitGajaraj/a73e9eb/terminal.svg)
+![rohit@gajaraj](https://raw.githubusercontent.com/RohitGajaraj/RohitGajaraj/ef2574d/terminal.svg)
 
 <h1> Hi, I’m Rohit 👋 </h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Senior+AI+Product+Manager;Building+agentic+AI+products;LLM+Evaluation+%7C+RAG+%7C+Multi-Agent+Systems;Space%2C+silicon%2C+now+agentic+AI)](https://github.com/RohitGajaraj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+Aimiru;Your+AI+agents%2C+work+and+personal%2C+as+one+team;Space%2C+silicon%2C+now+agentic+AI)](https://aimiru.app)
 
 </div>
 
-I build AI products, and I mean that literally. Most days you will find me in a terminal, directing coding agents and testing a flow myself, and then on a call with a customer, finding out why it still is not good enough. Building products is the job and the hobby.
+I build AI products, and I mean that literally. Right now that means Aimiru, full time. Most days you will find me in a terminal, building alongside coding agents and testing a flow myself, and then talking to the people who use agents every day, finding out why it still is not good enough. Building products is the job and the hobby.
 
-I am a Senior AI Product Manager, but the title only tells half of it. Think of me as an AI builder who also runs the business: I set the direction, I build with coding agents myself, and I execute the go to market, pricing, and distribution. Strategy, build, and execution in one person, not three handoffs. I can build the thing, and I also care about what it costs, how it is priced, and how it actually reaches customers. At Intellect I lead agentic AI products and the platform underneath them, and I own go to market for my products, pricing and distribution included. Not a handoff. The whole thing.
+Think of me as a product builder who also runs the business: I set the direction, I build the product myself, and I take it to market. Strategy, build, and execution in one person, not three handoffs.
+
+<h2> What I am building: Aimiru </h2>
+
+[**Aimiru**](https://aimiru.app) runs the AI agents you already use, work and personal, as one team. You bring your own agents, on the subscriptions you already pay for (Claude Code, Codex, ChatGPT, Claude, Muse, Fo and others), and Aimiru gives them what a team needs:
+
+- **One brain.** Tell one of them something, and they all know it.
+- **Jobs across agents.** Give a job once; Aimiru plans it and hands each part to the right agent.
+- **Shared abilities.** One phone line, one email address and cards made for one job, which any agent borrows.
+- **Your limits,** kept by every agent, with fewer asks as it learns your yeses.
+- **One view** of everything they did, with one tap to pause them all.
+
+Today it works inside Claude Code and Codex. The connectors are open source at [aimiru-app/aimiru-connectors](https://github.com/aimiru-app/aimiru-connectors), and the Codex connector is on npm as `aimiru-codex`.
+
+**Why I am building it:** I live the problem. I use Claude Code, Codex, ChatGPT, Claude and Lovable for work, and Muse, Fo and Wabi for my personal life. Each is good on its own. Together they need a manager, and the manager was me.
 
 **What I believe**
 
-- Talk to users. Not through a dashboard, not through a report someone else wrote. I learn more from one honest customer call than from a week of metrics, and I guard that time like it is the job itself. It is.
+- Talk to users. Not through a dashboard, not through a report someone else wrote. I learn more from one honest conversation than from a week of metrics.
 - Be practical. A feature nobody uses is not a feature, it is a cost. I would rather ship something small that people quietly love than something grand that people politely tolerate.
-- A demo is a promise, and production is where the promise gets kept. I have the scars to prove how different those two are.
-- If you cannot measure it against real data, you do not know that it works. You only hope it does. Evaluation is not a step at the end of my process. Most days, it is the process.
+- A demo is a promise, and production is where the promise gets kept.
+- If you cannot measure it against real data, you do not know that it works. You only hope it does.
 - Taste matters more now, not less. When anyone can generate anything, the edge is knowing what is worth shipping.
-- Ownership is not a poster on a wall. If it has my name on it, it ships, and I stay with it until it works for the customer.
-
-**What I am obsessed with right now**
-
-- Agents that stop chatting and start finishing work, end to end
-- The road to AGI, and what product management even means when the model gets smarter every few months
-- Evals built from live, messy data instead of clean test sets
-- Making agents observable and trustworthy enough for production, where a mistake costs real money
-- Building at the speed of thought: voice first, coding agents always on
-- What AI does to go to market: pricing, packaging, and distribution when the product keeps improving itself
+- Ownership is not a poster on a wall. If it has my name on it, it ships, and I stay with it until it works for the person using it.
 
 **Where I think this goes**
 
-I am an optimist about AI, but not a blind one. Models will keep getting better, and the bottleneck will move from what AI can do to what we can trust it to do. Workflows will change more than job titles, and the people who win will be the ones who learn to direct these systems well. The biggest gains may come in the least glamorous places, once trust is solved. That is the frontier I want to build on.
-
-**Lately, I have been working on**
-
-- Agent workflows that carry a task from the first signal to the finished outcome
-- RAG assistants that answer from real enterprise documents
-- LLM evaluation: eval design, quality gates, and checking models against live data
-- Digital onboarding journeys, rebuilt around AI
-- Go to market for AI products: positioning, pricing, and distribution
-- Building with coding agents every day: Claude Code, Codex, and Cursor
+I am an optimist about AI, but not a blind one. Models will keep getting better, and the bottleneck will move from what AI can do to what we can trust it to do. People will not use one agent; they will use many, from different makers, at work and at home. The winners will be the ones who make those agents work together, safely, without making the person their manager. That is the frontier I am building on.
 
 **Tools I use every day**
 
 - Claude Code, my main coding agent, and Codex running alongside it
-- Codegen agents for bigger builds, with Cursor and Hyperagent in the same flow
 - Claude and ChatGPT as thinking partners: research, drafts, and pressure testing product decisions before they cost anyone money
 - Lovable and Replit when I want a prototype I can touch quickly
-- Figma and Mobbin for design, and Claude for working through the design decisions themselves
+- Figma and Mobbin for design
 - Wispr Flow for voice to text. I talk more than I type
 
-**Things I am building right now**
+<h2> What I built before </h2>
 
-[**Supaprod**](https://github.com/RohitGajaraj/Supaprod) - An agentic product management platform I am building as a side project. It decides what to build, builds it, ships it, checks the outcome, and learns from it. It has three parts: a Director that sets direction, an Operating System that runs Discover, Decide, Plan, Design, Build, Ship, and Learn, and a Brain that carries the learning into the next decision. I am building it by directing coding agents: 2,246 files, 86 routes, 591 migrations, and 961 test files so far. It is live at [supaprod.ai](https://supaprod.ai).
+**Supaprod** ([supaprod.ai](https://supaprod.ai)) - An AI system for product teams, in three layers: it read customer signals and told you what to build, had agents carry the work from spec to shipped code, and kept a brain that learned from each decision. I built it alone in about eleven weeks and stopped it in September 2026, when Linear, Atlassian and Anthropic shipped the same idea inside their own products. Knowing when to stop was the most important call I made on it.
 
-[**Project Infinity**](https://github.com/RohitGajaraj/project-infinity) - The neutral trust layer for AI agents: verified identity, permissions, and signed credentials that any business can check in one call. This is the second project I am actively building.
+[**Project Infinity**](https://github.com/RohitGajaraj/project-infinity) - A verified ID for AI agents that any business can check in one step: identity, permissions and signed credentials. I built the first part in September 2026.
 
-One honest lesson from building Supaprod: in August 2026 I found nine shipped features doing nothing in production, even though every test was green. I found them only by querying the live database. Tests passing is not the same as value landing.
-
-**A few things I am proud of**
-
-- Taking products from a blank page to revenue with the same pair of hands: roadmap, build, pricing, and go to market
-- Shipping agentic AI into live enterprise workflows, where real people depend on it every day
-- A career across space, semiconductors, and finance, three industries where “move fast and break things” was never really an option
-- Founding a consumer brand that was recognised by Startup India. It taught me more about customers than any framework has
+One honest lesson from Supaprod: I once found nine shipped features doing nothing in production, even though every test was green. Tests passing is not the same as value landing. Aimiru is built the other way: one thing working end to end before the next.
 
 <h2> The road here </h2>
 
-- **Intellect.** Senior AI Product Manager, building agentic AI products used by large enterprises. I lead the agents, the platform underneath them, and the go to market for my product line.
-- **Founder, Bengaluru.** Took a small stint to build something of my own: a consumer beverage brand, incubated at NSRCEL, IIM Bangalore, and recognised by Startup India.
-- **Infineon Technologies, Munich, Germany.** Product Manager for consumer audio silicon, the chips inside flagship smartphones. Semiconductors taught me how unforgiving real hardware timelines are.
-- **ISRO, Bengaluru.** I started my career at India’s space agency, as a communications engineer and associate product manager working on satellite communication systems.
-- MBA from TUM School of Management, Munich, Germany. I lived and worked in Germany from 2019 to 2022. I am exploring senior AI product roles at frontier labs and AI first companies, and I am open to relocating for the right role.
+- **Aimiru, Bengaluru.** Founder, building full time since October 2026.
+- **Intellect.** Senior AI Product Manager. Led an AI product that more than 200 banks, central banks and financial institutions in 70+ countries use to build their own AI applications, where no AI acts without limits, a way to stop it and a record.
+- **Founder, Bengaluru.** A consumer beverage brand, incubated at NSRCEL, IIM Bangalore, and recognised by Startup India. It taught me more about customers than any framework has.
+- **Infineon Technologies, Munich, Germany.** Product Manager for silicon and semiconductors: consumer audio chips inside flagship smartphones.
+- **Bosch.** Product Analyst, researching new payment rails built on blockchain.
+- **ISRO, Bengaluru.** India's national space agency. I started my career there as a communications engineer on space and satellite communication systems for India's Moon mission and the operations of its Mars orbiter, then moved into product within eight months.
+- **MBA, TUM School of Management, Munich, Germany.** I lived and worked in Germany from 2019 to 2022.
 
 **Connect with me**
 
-[LinkedIn](https://www.linkedin.com/in/rohit-gajaraj) · [X](https://x.com/rohit_gajaraj) · [Supaprod](https://supaprod.ai)
+[Aimiru](https://aimiru.app) · [LinkedIn](https://www.linkedin.com/in/rohit-gajaraj) · [X](https://x.com/rohit_gajaraj)
